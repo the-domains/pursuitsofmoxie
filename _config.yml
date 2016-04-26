@@ -1,0 +1,28 @@
+name: Pursuitsofmoxie
+favicon: null
+layout_spectrum: 0.7196823873091489
+typography_spectrum: 0.047098567709326744
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.2058867064770311
+  lightness: 0.8775921734049916
+  saturation: 0.8012280294205993
+  rhythmicContrast: 0.3057380460668355
+purpose: []
